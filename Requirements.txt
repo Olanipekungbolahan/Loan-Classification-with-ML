@@ -1,0 +1,8 @@
+Pandas
+Seaborn
+Numpy
+Sklearn
+Tensorflow
+Pandas Profiling
+Flask
+gunicorn
